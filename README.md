@@ -1,17 +1,6 @@
 ## Hola, soy Miguel Garavaglia 👋
 
-Soy analista en Sistemas y estudiante de la Licenciatura en Sistemas de Información. Enfocado en la **Ingeniería de Software**, el diseño de **arquitecturas limpias, modulares y escalables**, y la implementación de soluciones tecnológicas. Me apasiona transformar requerimientos complejos en sistemas robustos, aplicando buenas prácticas de desarrollo y patrones de diseño orientados a resolver problemas de negocio reales. Actualmente construyendo proyectos propios y trabajando de forma freelance.
-
----
-
-### 💻 Áreas de Interés y Colaboración
-Estoy totalmente abierto a colaborar en proyectos de complejidad técnica y arquitectónica. Me interesa formar equipo en:
-* Diseño y desarrollo de sistemas a medida o  bajo modelos **SaaS** con lógica de negocio compleja.
-* Modelado de arquitecturas backend modernas, escalables y desacopladas.
-* Diseño de bases de datos relacionales.
-* Desarrollo y automatización de procesos, asegurando la estabilidad y mantenibilidad del software.
-
-Si estás buscando un perfil técnico enfocado en la calidad de código, la optimización y la escalabilidad de sistemas, ¡hablemos!
+Soy analista en Sistemas y estudiante de la Licenciatura en Sistemas de Información. Enfocado en la **Ingeniería de Software**, el diseño de **arquitecturas limpias, modulares y escalables**, y la implementación de soluciones tecnológicas. Me apasiona transformar requerimientos complejos en sistemas robustos, aplicando buenas prácticas de desarrollo y patrones de diseño orientados a resolver problemas de negocio reales. Actualmente construyendo proyectos propios y trabajando de forma freelance. 
 
 ---
 
@@ -105,6 +94,15 @@ Si estás buscando un perfil técnico enfocado en la calidad de código, la opti
 </table>
 
 ---
+
+### 💻 Áreas de Interés y Colaboración
+Estoy totalmente abierto a colaborar en proyectos de complejidad técnica y arquitectónica. Me interesa formar equipo en:
+* Diseño y desarrollo de sistemas a medida o  bajo modelos **SaaS** con lógica de negocio compleja.
+* Modelado de arquitecturas backend modernas, escalables y desacopladas.
+* Diseño de bases de datos relacionales.
+* Desarrollo y automatización de procesos, asegurando la estabilidad y mantenibilidad del software.
+
+Si estás buscando un perfil técnico enfocado en la calidad de código, la optimización y la escalabilidad de sistemas, ¡hablemos!
 
 ### 📩 ¡Conectemos!
 Acompañá tus proyectos con un diseño minimalista y moderno. Podés encontrarme en mis canales profesionales:
