@@ -53,7 +53,7 @@ Si estás buscando un perfil técnico enfocado en la calidad de código, la opti
 
 ### 🌐 Idiomas
 *   **Español:** Nativo.
-*   **Inglés:** Competencia técnica profesional (Comprensión lectora y auditiva, enfocado en documentación de ingeniería de software y especificaciones técnicas).
+*   **Inglés:** Competencia técnica profesional (Buena comprensión lectora y auditiva orientada a documentación y requirimientos de software). **Actualmente perfeccionando la fluidez oral.**
 
 ### 📩 ¡Conectemos!
 Acompañá tus proyectos con un diseño minimalista y moderno. Podés encontrarme en mis canales profesionales:
