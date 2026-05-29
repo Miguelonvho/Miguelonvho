@@ -108,6 +108,7 @@ Si estás buscando un perfil técnico enfocado en la calidad de código, la opti
 
 ### 📩 ¡Conectemos!
 Acompañá tus proyectos con un diseño minimalista y moderno. Podés encontrarme en mis canales profesionales:
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garavagliamiguel23@gmail.com)
 
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN)
