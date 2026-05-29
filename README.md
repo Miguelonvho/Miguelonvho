@@ -97,7 +97,7 @@ Soy analista en Sistemas y estudiante de la Licenciatura en Sistemas de Informac
 
 ### 💻 Áreas de Interés y Colaboración
 Estoy totalmente abierto a colaborar en proyectos de complejidad técnica y arquitectónica. Me interesa formar equipo en:
-* Diseño y desarrollo de sistemas a medida o  bajo modelos **SaaS** con lógica de negocio compleja.
+* Diseño y desarrollo de sistemas a medida o  bajo modelos **SaaS**.
 * Modelado de arquitecturas backend modernas, escalables y desacopladas.
 * Diseño de bases de datos relacionales.
 * Desarrollo y automatización de procesos, asegurando la estabilidad y mantenibilidad del software.
