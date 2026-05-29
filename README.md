@@ -6,7 +6,7 @@ Soy analista en Sistemas y estudiante de la Licenciatura en Sistemas de Informac
 
 ### 🛠️ Core Stack & Tecnologías
 
-#### 💻 Desarrollo de Software (Lenguajes & Frameworks)
+#### Desarrollo de Software (Lenguajes & Frameworks)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />&nbsp;
   <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />&nbsp;
@@ -23,7 +23,7 @@ Soy analista en Sistemas y estudiante de la Licenciatura en Sistemas de Informac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="48" height="48" alt="CodeIgniter" />&nbsp;
 </p>
 
-#### 🗄️ Bases de Datos & Gestión de Datos
+#### Bases de Datos & Gestión de Datos
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server Management Studio" />
@@ -31,7 +31,7 @@ Soy analista en Sistemas y estudiante de la Licenciatura en Sistemas de Informac
   <img src="https://skillicons.dev/icons?i=prisma" />
 </p>
 
-#### 🔧 DevOps & Herramientas
+#### DevOps & Herramientas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />&nbsp;
   <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />&nbsp;
