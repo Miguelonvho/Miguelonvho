@@ -1,6 +1,6 @@
 ## Hola, soy Miguel Garavaglia 👋
 
-Soy analista en Sistemas y estudiante de la Licenciatura en Sistemas de Información. Enfocado en la **Ingeniería de Software**, el diseño de **arquitecturas limpias, modulares y escalables**, y la implementación de soluciones tecnológicas. Me apasiona transformar requerimientos complejos en sistemas robustos, aplicando buenas prácticas de desarrollo y patrones de diseño orientados a resolver problemas de negocio reales. Actualmente construyendo proyectos propios y trabajando de forma freelance. 
+Soy analista en Sistemas y estudiante de la Licenciatura en Sistemas de Información. Enfocado en la **Ingeniería de Software**, el diseño de **arquitecturas limpias, modulares y escalables**, y la implementación de soluciones tecnológicas. Me apasiona transformar requerimientos complejos en sistemas robustos, aplicando buenas prácticas de desarrollo y patrones de diseño orientados a resolver problemas de negocio reales. Actualmente estoy en constante aprendizaje, construyendo proyectos propios y trabajando de forma freelance. 
 
 ---
 
