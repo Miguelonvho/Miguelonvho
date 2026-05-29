@@ -49,6 +49,12 @@ Estoy totalmente abierto a colaborar en proyectos de complejidad técnica y arqu
 
 Si estás buscando un perfil técnico enfocado en la calidad de código, la optimización y la escalabilidad de sistemas, ¡hablemos!
 
+---
+
+### 🌐 Idiomas
+*   **Español:** Nativo.
+*   **Inglés:** Competencia técnica profesional (Comprensión lectora y auditiva, enfocado en documentación de ingeniería de software y especificaciones técnicas).
+
 ### 📩 ¡Conectemos!
 Acompañá tus proyectos con un diseño minimalista y moderno. Podés encontrarme en mis canales profesionales:
 
