@@ -36,7 +36,7 @@ Soy analista en Sistemas y estudiante de la Licenciatura en Sistemas de Informac
   <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />&nbsp;
   <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />&nbsp;
   <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+  
 </p>
 
 ---
