@@ -18,7 +18,7 @@ Soy analista en Sistemas y estudiante de la Licenciatura en Sistemas de Informac
   <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />&nbsp;
   <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />&nbsp;
   <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />&nbsp;
+  <!--<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />&nbsp;-->
   <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="48" height="48" alt="CodeIgniter" />&nbsp;
 </p>
